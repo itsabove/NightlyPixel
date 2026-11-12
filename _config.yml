@@ -1,5 +1,4 @@
 title: Nightly Pixel
-description: Game Reviews and More
-remote_theme: pages-themes/tactile@v0.2.0
-plugins:
-  - jekyll-remote-theme
+description: Reviews
+google_analytics:
+theme: jekyll-theme-tactile
