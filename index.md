@@ -3,5 +3,5 @@ layout: home
 title: Home
 ---
 
-# Welcome to My Blog
+# Nightly Pixel
 Write your introduction here.
